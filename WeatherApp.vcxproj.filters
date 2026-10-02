@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{D8376475-7454-4A24-B08A-AAC121D3AD6F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\main.cpp"><Filter>src</Filter></ClCompile>
+    <ClCompile Include="src\ofApp.cpp"><Filter>src</Filter></ClCompile>
+    <ClCompile Include="src\WeatherService.cpp"><Filter>src</Filter></ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\ofApp.h"><Filter>src</Filter></ClInclude>
+    <ClInclude Include="src\WeatherService.h"><Filter>src</Filter></ClInclude>
+    <ClInclude Include="src\WeatherData.h"><Filter>src</Filter></ClInclude>
+    <ClInclude Include="src\ForecastDay.h"><Filter>src</Filter></ClInclude>
+  </ItemGroup>
+</Project>
