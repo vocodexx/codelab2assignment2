@@ -1,0 +1,6 @@
+﻿  main.cpp
+  ofApp.cpp
+  WeatherService.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+     Creating library bin\WeatherApp_debug.lib and object bin\WeatherApp_debug.exp
+  WeatherApp.vcxproj -> C:\Users\alemt\of_v0.12.1_vs_64_release\of_v0.12.1_vs_64_release\apps\myApps\WeatherApp\bin\WeatherApp_debug.exe
